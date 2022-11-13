@@ -1,0 +1,21 @@
+
+> cv-andres@0.1.0 build
+> react-scripts build
+
+Creating an optimized production build...
+Compiled successfully.
+
+File sizes after gzip:
+
+  49.2 kB  build\static\js\main.0f02ac04.js
+  1.19 kB  build\static\css\main.e9a8fe07.css
+
+The project was built assuming it is hosted at /cv-andres/.
+You can control this with the homepage field in your package.json.
+
+The build folder is ready to be deployed.
+
+Find out more about deployment here:
+
+  https://cra.link/deployment
+
