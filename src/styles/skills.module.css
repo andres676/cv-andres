@@ -1,0 +1,29 @@
+.skills {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+}
+@media (max-width: 1224px) {
+  .skills {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+@media (max-width: 600px) {
+  .skills {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+.box {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  margin: 10px;
+}
+.box h4 {
+  color: #369ceb;
+  text-align: center;
+}
+.box h5 {
+  color: #848c90;
+  text-align: center;
+}

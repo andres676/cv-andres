@@ -1,0 +1,45 @@
+.about {
+  margin-bottom: 50px;
+}
+.about:last-child {
+  margin-bottom: 0;
+}
+.title2 {
+  color: #19476b;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin-bottom: 10px;
+}
+p {
+  text-align: justify;
+  color: #000;
+}
+.about .box {
+  display: flex;
+  flex-direction: row;
+  margin: 20px 0;
+}
+.about .box .year_company {
+  min-width: 150px;
+}
+.about .box .year_company h5 {
+  text-transform: uppercase;
+  color: #848c90;
+  font-weight: 600;
+}
+.about .box .text h4 {
+  text-transform: uppercase;
+  color: #369ceb;
+  font-size: 16px;
+}
+@media (max-width: 600px) {
+  .about .box {
+    flex-direction: column;
+  }
+  .about .box .year_company {
+    margin-bottom: 5px;
+  }
+  .skills .box {
+    grid-template-columns: repeat(1, 1fr);
+  }
+}
