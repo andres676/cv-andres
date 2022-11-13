@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/andres676/cv-andres.git/static/css/main.e9a8fe07.css",
-    "main.js": "/andres676/cv-andres.git/static/js/main.b9a56a91.js",
-    "static/media/profile.jpg": "/andres676/cv-andres.git/static/media/profile.3b7c8cdb3bb3e90ae192.jpg",
-    "index.html": "/andres676/cv-andres.git/index.html",
-    "main.e9a8fe07.css.map": "/andres676/cv-andres.git/static/css/main.e9a8fe07.css.map",
-    "main.b9a56a91.js.map": "/andres676/cv-andres.git/static/js/main.b9a56a91.js.map"
+    "main.css": "/cv-andres/static/css/main.e9a8fe07.css",
+    "main.js": "/cv-andres/static/js/main.0f02ac04.js",
+    "static/media/profile.jpg": "/cv-andres/static/media/profile.3b7c8cdb3bb3e90ae192.jpg",
+    "index.html": "/cv-andres/index.html",
+    "main.e9a8fe07.css.map": "/cv-andres/static/css/main.e9a8fe07.css.map",
+    "main.0f02ac04.js.map": "/cv-andres/static/js/main.0f02ac04.js.map"
   },
   "entrypoints": [
     "static/css/main.e9a8fe07.css",
-    "static/js/main.b9a56a91.js"
+    "static/js/main.0f02ac04.js"
   ]
 }
